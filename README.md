@@ -1,5 +1,3 @@
-# quality-eval-gui
-
 # Annotation Tool
 
 This project is a Python-based application that provides an interface for annotating question-answer pairs with their quality grades, reasons for rejection, and additional notes. The application is built using the Tkinter library for the graphical user interface.
