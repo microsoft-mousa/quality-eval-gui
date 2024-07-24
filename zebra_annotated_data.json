@@ -1,0 +1,194 @@
+[
+    {
+        "id": "88f3da64-7f33-4f4a-a063-ab4b29f75b9e",
+        "question": "What problems can affect apple trees and fruit?",
+        "answer": "Fungal, bacterial, and pest problems.",
+        "hint": "These problems can be controlled by different means.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "f2619f6d-bad2-4a5b-9140-24d6c2c6a129",
+                "text": "Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider or apple juice production. Trees and fruit are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.",
+                "startCharPositionInText": 126,
+                "endCharPositionInText": 262,
+                "score": 0.2436406910419464,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "3",
+        "question_reject_reason": "The quesion is vahue and prone to various interpretations",
+        "question_note": "",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    },
+    {
+        "id": "bef2a248-c9e0-4a06-b0ca-19b6d03dd36d",
+        "question": "What decision was made regarding the scientific name 'Malus domestica'?",
+        "answer": "It was officially conserved.",
+        "hint": "A decision was made to keep this name.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "bd183b4d-42dd-4139-80f9-ab8661c19a46",
+                "text": "M. pumila is the older name, but M. domestica has become much more commonly used starting in the 21st century, especially in the western world. Two proposals were made to make M. domestica a conserved name: the earlier proposal was voted down by the Committee for Vascular Plants of the IAPT in 2014, but in April 2017 the Committee decided, with a narrow majority, that the newly popular name should be conserved.[13] The General Committee of the IAPT decided in June 2017 to approve this change, officially conserving M. domestica.",
+                "startCharPositionInText": 144,
+                "endCharPositionInText": 418,
+                "score": 0.2584918737411499,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    },
+    {
+        "id": "f31ffcd2-f729-434b-a805-a8e72d953a53",
+        "question": "Which scientific name has become more commonly used in recent times?",
+        "answer": "Malus domestica.",
+        "hint": "It is the more popular name from the 21st century onwards.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "e551b732-0f87-48e6-af1c-0aad90fffdd2",
+                "text": "The apple as a species has been given a number of alternative scientific names, or synonyms. In modern times, Malus pumila and Malus domestica are the two main names in use. M. pumila is the older name, but M. domestica has become much more commonly used starting in the 21st century, especially in the western world.",
+                "startCharPositionInText": 93,
+                "endCharPositionInText": 173,
+                "score": 0.1935463845729828,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "4",
+        "question_reject_reason": "The question does not describe the entity it is referring to",
+        "question_note": "The question is not standalone - it does not describe the entity it was referring to - apple tree.",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    },
+    {
+        "id": "53cba028-116c-4c6e-a875-1e478eee87d3",
+        "question": "What is the color of the flowers of an apple tree?",
+        "answer": "White with a pink tinge.",
+        "hint": "It is a light color with a hint of another color.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "58a56c4d-0949-440a-9547-4505955a2f99",
+                "text": "Skin, 100% overcolor The groundcolor of ripe apples is yellow, green, yellow-green or whitish yellow. The overcolor of ripe apples can be orange-red, pink-red, red, purple-red or brown-red.",
+                "startCharPositionInText": 21,
+                "endCharPositionInText": 101,
+                "score": 0.2778802514076233,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "5",
+        "question_reject_reason": "Complete with detalied description",
+        "question_note": "",
+        "answer_grade": "5",
+        "answer_reject_reason": "Complete with detalied description",
+        "answer_note": ""
+    },
+    {
+        "id": "ca5a3b15-1dd5-4035-ac53-bca4c7e3f62d",
+        "question": "Which name is still used as the correct name in some publications?",
+        "answer": "Malus pumila.",
+        "hint": "It is an alternate taxonomy for the same apple species.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "df920c6c-a889-4bb9-8133-9002644ee51d",
+                "text": "The apple as a species has been given a number of alternative scientific names, or synonyms. In modern times, Malus pumila and Malus domestica are the two main names in use. M. pumila is the older name, but M. domestica has become much more commonly used starting in the 21st century, especially in the western world.",
+                "startCharPositionInText": 93,
+                "endCharPositionInText": 173,
+                "score": 0.19803936779499054,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "4",
+        "question_reject_reason": "Incomplete - the question does not indicate to which entity it is referring to.",
+        "question_note": "Should include the name apple tree.",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    },
+    {
+        "id": "2f7378d8-be4d-4b8a-9573-87b470b2d868",
+        "question": "What are the two main scientific names used for the apple species?",
+        "answer": "Malus pumila and Malus domestica.",
+        "hint": "There are two different scientific names.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "e55d0332-2265-406d-ab91-5dbb5719df60",
+                "text": "The apple as a species has been given a number of alternative scientific names, or synonyms. In modern times, Malus pumila and Malus domestica are the two main names in use. M. pumila is the older name, but M. domestica has become much more commonly used starting in the 21st century, especially in the western world.",
+                "startCharPositionInText": 93,
+                "endCharPositionInText": 173,
+                "score": 0.1639358550310135,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "5",
+        "question_reject_reason": "Complete with detalied description",
+        "question_note": "",
+        "answer_grade": "5",
+        "answer_reject_reason": "Complete with detalied description",
+        "answer_note": ""
+    },
+    {
+        "id": "28cdf97c-02c0-4a83-8fa2-8f97281c838f",
+        "question": "What are the characteristics of apple leaves?",
+        "answer": "Dark green-colored simple ovals with serrated margins and slightly downy undersides.",
+        "hint": "They have a specific shape and color.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "bcf8f444-acfb-4b06-a94b-d53f14a16a67",
+                "text": "When cultivated, the size, shape and branch density are determined by rootstock selection and trimming method. The leaves are alternately arranged dark green-colored simple ovals with serrated margins and slightly downy undersides. [7] Blossoms are produced in spring simultaneously with the budding of the leaves and are produced on spurs and some long shoots.",
+                "startCharPositionInText": 111,
+                "endCharPositionInText": 235,
+                "score": 0.20120738446712494,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "5",
+        "answer_reject_reason": "Complete with detalied description",
+        "answer_note": ""
+    },
+    {
+        "id": "bef2a248-c9e0-4a06-b0ca-19b6d03dd36d",
+        "question": "What decision was made regarding the scientific name 'Malus domestica'?",
+        "answer": "It was officially conserved.",
+        "hint": "A decision was made to keep this name.",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "bd183b4d-42dd-4139-80f9-ab8661c19a46",
+                "text": "M. pumila is the older name, but M. domestica has become much more commonly used starting in the 21st century, especially in the western world. Two proposals were made to make M. domestica a conserved name: the earlier proposal was voted down by the Committee for Vascular Plants of the IAPT in 2014, but in April 2017 the Committee decided, with a narrow majority, that the newly popular name should be conserved.[13] The General Committee of the IAPT decided in June 2017 to approve this change, officially conserving M. domestica.",
+                "startCharPositionInText": 144,
+                "endCharPositionInText": 418,
+                "score": 0.2584918737411499,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    }
+]

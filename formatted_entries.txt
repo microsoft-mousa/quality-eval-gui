@@ -1,0 +1,8 @@
+Question: What is the subgenus of the Grévy's zebra?
+Answer: Hippotigris
+Citation: These three groups are the only living members of the family Equidae.[9] The plains zebra and mountain zebra were traditionally placed in the subgenus Hippotigris (C. H. Smith, 1841) in contrast to the Grévy's zebra which was considered the sole species of subgenus Dolichohippus (Heller, 1912).[10][11][12] Groves and Bell (2004) placed all three species in the subgenus Hippotigris.[13]
+
+
+Question: What was the original classification of the quagga?
+Answer: Distinct species
+Citation: A 2013 phylogenetic study found that the plains zebra is more closely related to Grévy's zebras than mountain zebras.[14] The extinct quagga was originally classified as a distinct species.[15] Later genetic studies have placed it as the same species as the plains zebra, either a subspecies or just the southernmost population.[16][17]

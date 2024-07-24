@@ -1,0 +1,242 @@
+[
+    {
+        "id": "9e95d4b6-81ad-452c-936e-d6dbeef5b155",
+        "question": "What is the subgenus of the Gr\u00e9vy's zebra?",
+        "answer": "Hippotigris",
+        "hint": "Gr\u00e9vy's zebra belongs to a different subgenus than the other zebras",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "74c2355e-dfd3-4211-b764-11f686b29c64",
+                "text": "These three groups are the only living members of the family Equidae.[9] The plains zebra and mountain zebra were traditionally placed in the subgenus Hippotigris (C. H. Smith, 1841) in contrast to the Gr\u00e9vy's zebra which was considered the sole species of subgenus Dolichohippus (Heller, 1912).[10][11][12] Groves and Bell (2004) placed all three species in the subgenus Hippotigris.[13]",
+                "startCharPositionInText": 73,
+                "endCharPositionInText": 307,
+                "score": 0.20473842322826385,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "2",
+        "question_reject_reason": "The question is not specific as there are mutliple answers according to diffrent sources in the text.",
+        "question_note": "Other studies have different opinions, it can be misinterpreted and hard to understand to which study the question realtes.",
+        "answer_grade": "2",
+        "answer_reject_reason": "The answer is incomplete - there are multiple interpretations to the question that are not in the answer.",
+        "answer_note": ""
+    },
+    {
+        "id": "8e7ace63-0f47-4a76-8988-a3fa8a603da2",
+        "question": "What was the original classification of the quagga?",
+        "answer": "Distinct species",
+        "hint": "The quagga was initially thought to be a separate species",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "c3cb4b8e-1955-4da0-8e9b-677c872168e4",
+                "text": "A 2013 phylogenetic study found that the plains zebra is more closely related to Gr\u00e9vy's zebras than mountain zebras.[14] The extinct quagga was originally classified as a distinct species.[15] Later genetic studies have placed it as the same species as the plains zebra, either a subspecies or just the southernmost population.[16][17]",
+                "startCharPositionInText": 122,
+                "endCharPositionInText": 193,
+                "score": 0.1844751536846161,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "2",
+        "question_reject_reason": "The question is not specific as there are mutliple answers according to diffrent sources in the text.",
+        "question_note": "",
+        "answer_grade": "2",
+        "answer_reject_reason": "The answer omits other information that offer another answer",
+        "answer_note": ""
+    },
+    {
+        "id": "3de85b6d-25cd-4b52-bcb8-a1c73b4ccecf",
+        "question": "What type of species is the Gr\u00e9vy's zebra?",
+        "answer": "Promiscuous",
+        "hint": "Gr\u00e9vy's zebras have a specific mating behavior",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "f84881bf-77fc-4110-9c6c-05e7e9ad5fb4",
+                "text": "Zebra species differ in social behaviour, with plains and mountain zebra living in stable harems consisting of an adult male or stallion, several adult females or mares, and their young or foals; while Gr\u00e9vy's zebra live alone or in loosely associated herds. In harem-holding species, adult females mate only with their harem stallion, while male Gr\u00e9vy's zebras establish territories which attract females and the species is promiscuous. Zebras communicate with various vocalisations, body postures and facial expressions.",
+                "startCharPositionInText": 259,
+                "endCharPositionInText": 437,
+                "score": 0.253906786441803,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "1",
+        "answer_reject_reason": "wrind answer - misunderstanding of the context in which the answer word is used, leading to an incorrect answer to the question.",
+        "answer_note": "The answer present is wrong as it is taken literally. There is a meaning of the word \"Promiscuous\" that is not the required answer."
+    },
+    {
+        "id": "4ee7412c-15f6-4dc4-b6d4-bc67e00f21c9",
+        "question": "What is the function of zebra stripes?",
+        "answer": "Deterrent for biting flies",
+        "hint": "The stripes of zebras serve a specific purpose",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "b075f907-526d-4009-902c-3bcdb2ec534b",
+                "text": "Zebra stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these patterns, with most evidence supporting them as a deterrent for biting flies. Zebras inhabit eastern and southern Africa and can be found in a variety of habitats such as savannahs, grasslands, woodlands, shrublands, and mountainous areas.",
+                "startCharPositionInText": 69,
+                "endCharPositionInText": 208,
+                "score": 0.24156658351421356,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "4",
+        "answer_reject_reason": "Incomplete answer - there are indications there are other interpretations.",
+        "answer_note": "The answer would be better if it indicated that this is the leading series."
+    },
+    {
+        "id": "b5ccf60a-2922-4f68-81c3-390ed5c79d87",
+        "question": "What are Zebras?",
+        "answer": "African equines with black-and-white striped coats",
+        "hint": "They are African animals with a distinctive coat pattern",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "1f6783b5-aa96-40d1-8438-00867b9995fc",
+                "text": "Zebras (US: /\u02c8zi\u02d0br\u0259z/, UK: /\u02c8z\u025bbr\u0259z, \u02c8zi\u02d0-/)[2] (subgenus Hippotigris) are African equines with distinctive black-and-white striped coats. There are three living species: Gr\u00e9vy's zebra (Equus grevyi), the plains zebra (E. quagga), and the mountain zebra (E. zebra).",
+                "startCharPositionInText": 0,
+                "endCharPositionInText": 139,
+                "score": 0.169522225856781,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "4",
+        "question_reject_reason": "Question is vague with a braod specturm of answers.",
+        "question_note": "",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    },
+    {
+        "id": "f2b2f0a4-1211-4a7a-8339-ba00d45f4c5a",
+        "question": "What is the subgenus of the plains zebra and mountain zebra?",
+        "answer": "Hippotigris",
+        "hint": "The plains zebra and mountain zebra are in the same subgenus",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "1a99c360-fc65-44c5-ac2b-5b786398450b",
+                "text": "These three groups are the only living members of the family Equidae.[9] The plains zebra and mountain zebra were traditionally placed in the subgenus Hippotigris (C. H. Smith, 1841) in contrast to the Gr\u00e9vy's zebra which was considered the sole species of subgenus Dolichohippus (Heller, 1912).[10][11][12] Groves and Bell (2004) placed all three species in the subgenus Hippotigris.[13]",
+                "startCharPositionInText": 73,
+                "endCharPositionInText": 307,
+                "score": 0.1599218100309372,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "2",
+        "answer_reject_reason": "The answer omits other information that offer another answer",
+        "answer_note": "Groves and Bell (2004) placed all three species in the subgenus Hippotigris.[13] A 2013 phylogenetic study found that the plains zebra is more closely related to Gr\u00e9vy's zebras than mountain zebras."
+    },
+    {
+        "id": "c4b6e0b5-5f90-4599-b859-762341ed4819",
+        "question": "What makes zebras among the most recognisable mammals?",
+        "answer": "Their dazzling stripes",
+        "hint": "Zebras are known for a specific feature of their appearance",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "f03000b7-b66e-4087-8a27-9b2a5ff601ff",
+                "text": "Social grooming strengthens social bonds in plains and mountain zebras. Zebras' dazzling stripes make them among the most recognisable mammals. They have been featured in art and stories in Africa and beyond.",
+                "startCharPositionInText": 72,
+                "endCharPositionInText": 143,
+                "score": 0.10435941815376282,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "4",
+        "answer_reject_reason": "Subjective answer",
+        "answer_note": ""
+    },
+    {
+        "id": "f0619f6a-7d22-4c96-bcc3-242dc95ca669",
+        "question": "What does the English name 'zebra' derive from?",
+        "answer": "Italian, Spanish, or Portuguese",
+        "hint": "The English name for zebra has origins in these languages",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "6fcacd8c-37e9-4627-8b04-ce93309b274e",
+                "text": "Etymology The English name \"zebra\" derives from Italian, Spanish or Portuguese.[3][4] Its origins may lie in the Latin equiferus, meaning \"wild horse\".",
+                "startCharPositionInText": 10,
+                "endCharPositionInText": 85,
+                "score": 0.10331422090530396,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "",
+        "question_reject_reason": "",
+        "question_note": "",
+        "answer_grade": "3",
+        "answer_reject_reason": "The answer is incomplete.",
+        "answer_note": "The answer should be Latin"
+    },
+    {
+        "id": "5b3e83f5-3553-40d9-a343-777588124539",
+        "question": "What did a 2017 mitochondrial DNA study find about zebras and asses?",
+        "answer": "Zebras are closer to Sussemionus lineage than to asses",
+        "hint": "A 2017 study discovered a specific relationship between zebras and asses",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "01f2175a-1c6f-4fdb-acf6-2465c88d0934",
+                "text": "[21] A 2017 mitochondrial DNA study placed the Eurasian Equus ovodovi and the subgenus Sussemionus lineage as closer to zebras than to asses.[22] However, other studies disputed this placement, finding the Sussemionus lineage basal to the zebra+asses group, but suggested that the Sussemionus lineage may have received gene flow from zebras",
+                "startCharPositionInText": 5,
+                "endCharPositionInText": 145,
+                "score": 0.1358177214860916,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "3",
+        "question_reject_reason": "The question is not specific as there are mutliple answers according to diffrent sources in the text.",
+        "question_note": "",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    },
+    {
+        "id": "8935046b-14a1-4806-af4e-b608ccc0ff24",
+        "question": "What happened to the quagga?",
+        "answer": "It was driven to extinction in the 19th century",
+        "hint": "The quagga is no longer alive",
+        "videoCitations": [],
+        "textCitations": [
+            {
+                "id": "af960eae-fac8-4dd5-9026-337e82275707",
+                "text": "The International Union for Conservation of Nature (IUCN) lists Gr\u00e9vy's zebra as endangered, the mountain zebra as vulnerable and the plains zebra as near-threatened. The quagga (E. quagga quagga), a type of plains zebra, was driven to extinction in the 19th century. Nevertheless, zebras can be found in numerous protected areas.",
+                "startCharPositionInText": 167,
+                "endCharPositionInText": 267,
+                "score": 0.14350110292434692,
+                "sourceId": null
+            }
+        ],
+        "urlCitations": [],
+        "question_grade": "3",
+        "question_reject_reason": "The question is not specific as there are mutliple answers according to diffrent sources in the text.",
+        "question_note": "",
+        "answer_grade": "",
+        "answer_reject_reason": "",
+        "answer_note": ""
+    }
+]
